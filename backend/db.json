@@ -1,0 +1,11 @@
+{
+    "users":[{
+        "id:": 1,
+        "name": "Matheus de Almeida Piffer",
+        "email": "matheus.piffer.bc@gmail.com"
+    }, {
+        "id:": 2,
+        "name": "Maria Eduarda da Silva",
+        "email": "mariaduda@gmail.com"
+    }]
+}
