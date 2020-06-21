@@ -1,11 +1,14 @@
 {
-    "users":[{
-        "id:": 1,
-        "name": "Matheus de Almeida Piffer",
-        "email": "matheus.piffer.bc@gmail.com"
-    }, {
-        "id:": 2,
-        "name": "Maria Eduarda da Silva",
-        "email": "mariaduda@gmail.com"
-    }]
+  "users": [
+    {
+      "name": "Matheus Piffer",
+      "email": "matheus.piffer.bc@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Maria da Silva dos Santos",
+      "email": "maria2@google.com",
+      "id": 2
+    }
+  ]
 }

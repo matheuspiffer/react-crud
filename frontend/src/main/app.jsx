@@ -6,7 +6,6 @@ import { HashRouter } from 'react-router-dom'
 import Routes from './routes'
 import Logo from '../components/templates/logo'
 import Nav from '../components/templates/nav'
-import Home from '../components/home/home'
 import Footer from '../components/templates/footer'
 
 
